@@ -2,7 +2,6 @@
 
 This project implements a simple solver for the classic Water Jug Problem using a state-space search approach.  
 Given two jugs with capacities A and B, and a goal amount N, the program finds a sequence of actions to measure exactly N units of water.
-
 The solver uses a priority-based search to keep track of the lowest-cost path and reconstructs the final sequence of steps.
 
 ## Features
